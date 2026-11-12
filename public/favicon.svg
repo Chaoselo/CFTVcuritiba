@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <title>CFTV Curitiba</title>
+  <rect width="64" height="64" rx="14" fill="#0B1F3A"/>
+  <g transform="translate(32 32) scale(0.15954) translate(-2.5 -43.5)">
+    <rect x="-170" y="-85" width="280" height="170" rx="34" fill="#FFFFFF"/>
+    <rect x="110" y="-55" width="65" height="110" rx="18" fill="#DCE4F0"/>
+    <ellipse cx="-50.0" cy="8.0" rx="70.0" ry="70.0" fill="#0B1F3A"/>
+    <ellipse cx="-50.0" cy="8.0" rx="48.0" ry="48.0" fill="#123058"/>
+    <ellipse cx="-50.0" cy="8.0" rx="20.0" ry="20.0" fill="#F59E0B"/>
+    <ellipse cx="-52.0" cy="6.0" rx="6.0" ry="6.0" fill="#FFFFFF"/>
+    <ellipse cx="70.0" cy="-40.0" rx="15.0" ry="15.0" fill="#F59E0B"/>
+    <rect x="-60" y="85" width="30" height="65" fill="#DCE4F0"/>
+    <rect x="-110" y="148" width="130" height="24" rx="10" fill="#DCE4F0"/>
+  </g>
+</svg>

@@ -1,0 +1,6 @@
+{
+  "name": "CFTV Curitiba",
+  "description": "Instalação, manutenção e aluguel de câmeras de segurança em Curitiba e Região Metropolitana.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
